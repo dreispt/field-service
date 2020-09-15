@@ -156,6 +156,7 @@
                 <field name="name"/>
                 <field name="location_id"/>
                 <field name="person_id"/>
+                <field name="customer_id"/>
                 <field name="stage_id" string="Stage"/>
                 <field name="company_id"
                        groups="base.group_multi_company"/>
